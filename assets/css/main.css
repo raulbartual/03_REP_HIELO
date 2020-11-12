@@ -10,7 +10,7 @@
 
 /* Reset */
 
-	/* ESto es de la practica no evaluable */
+	
 
 	#one,#two,#three {
 		display: none;
@@ -24,6 +24,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
